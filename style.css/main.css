@@ -1,0 +1,33 @@
+:root {
+  --vermelho:#e50914;
+  --preta:#141414;
+}
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+body {
+ background: var(--preta);
+ font-family: sans-serif, sans-serif;
+}
+header .container{
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  padding: 39px;
+  align-items: center;
+}
+header .logo {
+  color: var(--vermelho);
+  font: 'Arial Black';
+  font-size: 40px;
+}
+header nav a{
+  color:#aaa;
+  margin-right: 10px;
+}
+header nav a:hover{
+  color:#fff;
+}
