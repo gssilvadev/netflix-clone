@@ -24,10 +24,10 @@ header .logo {
   font: 'Arial Black';
   font-size: 40px;
 }
-/* header nav a{
+header nav a{
   color:#aaa;
   margin-right: 10px;
 }
 header nav a:hover{
   color:#fff;
-} */
+}
