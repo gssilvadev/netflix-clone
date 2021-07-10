@@ -4,6 +4,9 @@
 # NETFLIX CLONE
 
 Olá pessoas. Esse foi um projeto bem legal de fazer. É um clone do famoso site de streamings _Netflix_.
+
+**Página**
+https://gssilvadev.github.io/netflix-clone/
  
 **Download do Projeto:** 
 ```
