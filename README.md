@@ -1,24 +1,30 @@
-# netflix-clone
-cópia do site da netflix.
-NETFLIX CLONE 📺
 
-<img src="img/netflix-initial-page" alt="My cool logo"/>
+![Website desing](https://github.com/gssilvadev/netflix-clone/blob/main/img/netflix-initial-page.png)
 
-Olá pessoas. Esse foi um projeto bem legal de fazer. É um clone do famoso site de streamings Netflix.
+# NETFLIX CLONE
 
-Download do Projeto:
-
+Olá pessoas. Esse foi um projeto bem legal de fazer. É um clone do famoso site de streamings _Netflix_.
+ 
+**Download do Projeto:** 
+```
 https://github.com/gssilvadev/netflix-clone.git
-👨🏻‍💻 Resumo:
+```
+
+
+## 👨🏻‍💻 Resumo: 
+
 O projeto apresenta o catálogo de filmes para usuários do Netflix.
 
-⚙️ Linguagem, pacotes e ferramentas utilizadas:
-HTML
-CSS
-Javascript
+## ⚙️ Linguagem, pacotes e ferramentas utilizadas:
 
-📋 Especificações:
-Front End
+- HTML
+- CSS
+- Javascript
 
-Conteúdo seperado por componentes.
-Utilização de padrão de projeto.
+
+## 📋 Especificações:
+
+**Front End**
+
+- Conteúdo seperado por componentes. 
+- Utilização de padrão de projeto.
